@@ -61,12 +61,13 @@ class App extends Component {
             <BoldTypography>
             My Skills:
             </BoldTypography>
+            <br></br>
+            Unity3d ( Games, AR )
             <br/>
             Python ( Machine Learning, Deep Learning )
             <br/>
             Javascript ( ReactJS )
             <br/>
-            Unity3d ( Games, AR )
             <br></br>
             <br></br>
             <br></br>
@@ -76,9 +77,9 @@ class App extends Component {
             <br></br>
             <a href="https://www.youtube.com/watch?v=PyV6mrrx_tM">Zanshin</a>
             <br></br>
-            <a href="https://mezclao-client.herokuapp.com">Mezclao</a>
+            <a href="https://www.mezclaostudio.com">Mezclao</a>
             <br></br>
-            <a href="https://fitboard-client.herokuapp.com/">Fitwave</a>
+            <a href="https://fitwave.live/">Fitwave</a>
             <br></br>
             <a href="http://apocalypsehunters.com/">Apocalypse Hunters</a>
         </StyledTypography>
